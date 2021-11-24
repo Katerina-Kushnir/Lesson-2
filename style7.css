@@ -1,3 +1,7 @@
+*:last-child {
+    color: blue;
+}
+
 p:first-child {
     color: red;
 }
@@ -8,8 +12,4 @@ p:only-child {
 
 p:only-of-type {
     background-color: blue;
-}
-
-p:last-child {
-    color: blue;
 }
